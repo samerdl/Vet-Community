@@ -2,11 +2,11 @@
   "data": [
      {
       "id": 1,
-      "Country": "eve.holt@reqres.in",
+      "Country": "World Wide",
       "first_name": "Eve",
       "last_name": "Holt",
       "avatar": "https://reqres.in/img/faces/2-image.jpg",
-      "story": ""
+      "story": "Founder and Creator of the App"
     },
     {
       "id": 2,
