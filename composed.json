@@ -2,11 +2,11 @@
   "data": [
     {
       "id": 1,
-      "country": "Israel",
-      "first_name": "Yoni",
-      "last_name": "Shalev",
-      "avatar": "https://lh3.googleusercontent.com/9C3Eu0lEuNfx41KSN3Wqd-97W51fjelVlwMNKU0YN21DZQbaZvoRfxg4kT9qxZFdYUTJjG_kQH4V7xxhLLGYoqsc3xRXLVcRp5xEI5DlI3-O0Ziexxq-jlDlThSqZA-jYuDCzmBVQYs93XpBHm9rltPWfIbd5gPYpHLFR822jhOMz5vCt44mz8-KNnGI8aDK8YHg9BnqQoU9PZZJujPoa0SNfrtksT1wQKdqmgTtANGpIc_Ifo5_B1CInFfZoDU4tDBf1WRGzDn_oKIxX8GNm-k_6HycjfKb9zw4Vkri-xC9RINMQvt5vqtlQLy8xwaQbEMr46USUnwKd3-Ni6Nhx7yCx536yneZKMgZ5i7sLBShB25be5xPpgM2d4xKnqKMNNpM1KMK8z3UJFMeVgqESgfTHHZwybqrhdjbCT6Kox_-4g38v-4EWlTCWS62V4m5Nh8eZH7Oljf12gTPSb--Cai0468S1autGUflJ1RtWbfMcnKZZ-pmUfKxAoj5GoCwuq7N1XkzT4yvt_uCti6iOhCULzgdrisCrIpZaum8xlZfO3TlLOEIyyrr8VfgeI9D827HIDNGOn4BEp7CHkD9Ye5K52Yxl6UXZYXkVLdGNCDLsxkqioxY9WuUkrcSV6rpKp7MXHl7OFQ8MKBiTf-V7V1CTZwoRQ6Bzyp8z9D-V7fwep-lwSraiV3i6DWrbUmEUo0X8DjnWh9dX3OchKcpYJRMe-GvbSH1CqTXZ9V7hkgnpau0jczMEgBihE4Owue2eHdGcP-sFeG1eZ_ugLogK5TfN6qynQ5YPSOPRN4QWZ2LEsGDTaUHFR4NqioDqeAsrPtuo2aYmZ1Gr6V7jyWyEFx_CaWkclZ8-0i5JlvTJ2P8ErO5hkVdbCE4hmx1P_v9L1TGg6iYwmcxJEPvDN3TtT1bHZoZfoNdnKlpNumwYUxNDw=w729-h486-s-no?authuser=0.jpg",
-      "story": "We lost track of our dog for a few days, using this app we were able to find him! thank you! "
+      "Country": "Brazil",
+      "first_name": "Eve",
+      "last_name": "Holt",
+      "avatar": "https://reqres.in/img/faces/2-image.jpg",
+      "story": "Founder of the App"
     },
     {
       "id": 2,
@@ -26,11 +26,11 @@
     },
     {
       "id": 4,
-      "Country": "eve.holt@reqres.in",
-      "first_name": "Eve",
-      "last_name": "Holt",
-      "avatar": "https://reqres.in/img/faces/2-image.jpg",
-      "story": ""
+      "country": "Israel",
+      "first_name": "Yoni",
+      "last_name": "Shalev",
+      "avatar": "https://lh3.googleusercontent.com/9C3Eu0lEuNfx41KSN3Wqd-97W51fjelVlwMNKU0YN21DZQbaZvoRfxg4kT9qxZFdYUTJjG_kQH4V7xxhLLGYoqsc3xRXLVcRp5xEI5DlI3-O0Ziexxq-jlDlThSqZA-jYuDCzmBVQYs93XpBHm9rltPWfIbd5gPYpHLFR822jhOMz5vCt44mz8-KNnGI8aDK8YHg9BnqQoU9PZZJujPoa0SNfrtksT1wQKdqmgTtANGpIc_Ifo5_B1CInFfZoDU4tDBf1WRGzDn_oKIxX8GNm-k_6HycjfKb9zw4Vkri-xC9RINMQvt5vqtlQLy8xwaQbEMr46USUnwKd3-Ni6Nhx7yCx536yneZKMgZ5i7sLBShB25be5xPpgM2d4xKnqKMNNpM1KMK8z3UJFMeVgqESgfTHHZwybqrhdjbCT6Kox_-4g38v-4EWlTCWS62V4m5Nh8eZH7Oljf12gTPSb--Cai0468S1autGUflJ1RtWbfMcnKZZ-pmUfKxAoj5GoCwuq7N1XkzT4yvt_uCti6iOhCULzgdrisCrIpZaum8xlZfO3TlLOEIyyrr8VfgeI9D827HIDNGOn4BEp7CHkD9Ye5K52Yxl6UXZYXkVLdGNCDLsxkqioxY9WuUkrcSV6rpKp7MXHl7OFQ8MKBiTf-V7V1CTZwoRQ6Bzyp8z9D-V7fwep-lwSraiV3i6DWrbUmEUo0X8DjnWh9dX3OchKcpYJRMe-GvbSH1CqTXZ9V7hkgnpau0jczMEgBihE4Owue2eHdGcP-sFeG1eZ_ugLogK5TfN6qynQ5YPSOPRN4QWZ2LEsGDTaUHFR4NqioDqeAsrPtuo2aYmZ1Gr6V7jyWyEFx_CaWkclZ8-0i5JlvTJ2P8ErO5hkVdbCE4hmx1P_v9L1TGg6iYwmcxJEPvDN3TtT1bHZoZfoNdnKlpNumwYUxNDw=w729-h486-s-no?authuser=0.jpg",
+      "story": "We lost track of our dog for a few days, using this app we were able to find him! thank you! "
     },
     {
       "id": 5,
