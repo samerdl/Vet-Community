@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 1,
-      "Country": "Brazil",
+      "country": "Brazil",
       "first_name": "Eve",
       "last_name": "Holt",
       "avatar": "https://reqres.in/img/faces/2-image.jpg",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "country": "Portugal}",
+      "country": "Portugal",
       "first_name": "Janet",
       "last_name": "Weaver",
       "avatar": "https://lh3.googleusercontent.com/7qPXHP9gCPSlPMkaZX1uZfNFV6x9ESKNNQvmPpQryhP2qT76yd8vupbFTER_I8ZMtFl2mti_840l-yWm1-SroQPm_uHj133lMZymMTW4pl6NV5p8_N-jwuor3bTyReSvPUoTAXk823afddZBS9Xv8TrIOxUzejyoD-HwUX_eMKIXcGuqolIJL3TpE17KADvDTsdpgDV6hbTwdNVgdi0g-3ThDW8avtH0AElkP3S7Cwu6pyhnOcLsnzAvN87U2ZDZzfGB9yTWa3N7hX_ObxbxqXcTMwwWc_rSOERA5nkHIUliieEdazGTUFybWrJRtOMm2RNUX9lxtObNNmOKwIw5-Y2VOG-396KmLyYqndu5hSDEhxRrzuSIOR2IkDUWap_NpgUmZZKpPZ6XFb_dVOmdjnE7YOe7mWUcTYPdzmO2ZwUa_d1jYjU_Eu5I1fKcMYgmdfGAhfO4iFP1gKbAFiCWnmHs_1dimydnniW-Jg2ZxjYTR4VVECkxcrPNTGyPhVZYHGXhEeWF32CAI1mLTWBgBd5C0-YT1GoTUkZscGL8QE9SjceNBqO2HrcecrYNxa6kjciI35xFRZxv2C80uFpxF9UPKt-XTOM0LmBVobOrtgxJ_78XilJVk-Frj4Lc5gmaSdJuh_JY80YJCdtaWx9QL3YFbasW6G5FmfCQDswRn_t9if6QW9lNYrfCJuLlH8XdAQWJlGFQGxBXG66n-htQKeBufc9BN3zEs-A685O_YzQhQpl1vCnsZHo_rw-_-36ifkV9LFGD57tbWMEG7JK7uti0ph2hY42j8kIEkdJ1eryPesNNKYUp3Mk0j9fN3zfgvCLafnDecyxrwAOB29U99CwqIntYwmUuIuNOUyJY8d4mNSSRdzFgzuczPQrlQpia4Ma0mqph_5QN-KjioHx57XcQLSqalgzt-KGTiQtVpQ1LjA=w900-h506-s-no?authuser=0.jpg",
