@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "country": "Brazil",
+      "first_name": "Eve",
+      "last_name": "Holt",
+      "avatar": "https://reqres.in/img/faces/2-image.jpg",
+      "story": "Founder of the App, i am so excited to help everyone find and keep their companions healthy! keep your pets safe and if you need help, we are here for you!"
+    },
+    {
+      "id": 2,
+      "country": "Portugal",
+      "first_name": "Janet",
+      "last_name": "Weaver",
+      "avatar": "https://raw.githubusercontent.com/samerdl/Vet-Community/main/imgIDS/DL%20DOGS/ID1.jpg",
+      "story": "Thank you!! Using this app we were able to recover Dingo so quickly! I love my dog and thank you!"
+    },
+    {
+      "id": 3,
+      "country": "Japan",
+      "first_name": "John",
+      "last_name": "Wong",
+      "avatar": "https://raw.githubusercontent.com/samerdl/Vet-Community/main/imgIDS/DL%20DOGS/ID2.jpg",
+      "story": "My boy was lost for a few days, i got on the bus and i couldn't reach him so he was left on the street. Using this app i was able to recover my boy  with all his medical records!"
+    },
+    {
+      "id": 4,
+      "country": "Israel",
+      "first_name": "Yoni",
+      "last_name": "Shalev",
+      "avatar": "https://raw.githubusercontent.com/samerdl/Vet-Community/main/imgIDS/DL%20DOGS/ID3.jpg",
+      "story": "We lost track of our dog for a few days, using this app we were able to find him! thank you! "
+    },
+    {
+      "id": 5,
+      "country": "U.S",
+      "first_name": "Charles",
+      "last_name": "Morris",
+      "avatar": "https://raw.githubusercontent.com/samerdl/Vet-Community/main/imgIDS/DL%20DOGS/ID4.jpg",
+      "story": "I had to take my dog to a new Vet, and my old vet refused to send me his medical records, thank fully i always kept records on this app so i was able to get my dog the treatment he needs with all his vital information about vaccines and operations previously undertaken"
+    },
+    {
+      "id": 6,
+      "country": "Spain",
+      "first_name": "Tracey",
+      "last_name": "Ramos",
+      "avatar": "https://raw.githubusercontent.com/samerdl/Vet-Community/main/imgIDS/DL%20DOGS/ID5.jpg",
+      "story": "Thank you, i have kept medical records of my dog in this app i am so thankful"
+    },
+    {
+      "id": 7,
+      "country": "Argentine",
+      "first_name": "Trevor",
+      "last_name": "Mcclin",
+      "avatar": "https://raw.githubusercontent.com/samerdl/Vet-Community/main/imgIDS/DL%20DOGS/ID6.jpg",
+      "story": "We went through a massive car wreck and luckily my dog survived unscaved, i was so glad to know that once he was taken to shelter, the caretakers were able to locate me and give me back my boy as i was recovery in the hospital"
+    },
+    {
+      "id": 8,
+      "country": "China",
+      "first_name": "Jack",
+      "last_name": "Ma",
+      "avatar": "https://raw.githubusercontent.com/samerdl/Vet-Community/main/imgIDS/DL%20DOGS/ID7.jpg",
+      "story": "Thank you - i really lost my dog for a day and i couldn't find him, thankfully using this app my dog was located and quickly returned"
+    },
+    {
+      "id": 9,
+      "country": "Finland",
+      "first_name": "Timo",
+      "last_name": "Tolki",
+      "avatar": "https://raw.githubusercontent.com/samerdl/Vet-Community/main/imgIDS/DL%20DOGS/ID9.jpg",
+      "story": "We found a lost dog and used the app to identify the owner, we were able to contact him and return him to the owner!"
+    },
+    {
+      "id": 10,
+      "country": "France",
+      "first_name": "Pier",
+      "last_name": "Charles",
+      "avatar": "https://raw.githubusercontent.com/samerdl/Vet-Community/main/imgIDS/DL%20DOGS/ID10.jpg",
+      "story": "Thank you, my dog was trapped and thankfully now he is safe thanks to this app!"
+    }
+  ]
+}
